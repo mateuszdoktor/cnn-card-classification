@@ -1,0 +1,12 @@
+{
+  "test_loss": 1.131564,
+  "test_accuracy": 0.803774,
+  "test_recall": 0.803774,
+  "test_precision": 0.817146,
+  "test_f1-score": 0.797203,
+  "num_classes": 53,
+  "random_baseline_accuracy": 0.018868,
+  "checkpoint_path": "/teamspace/studios/this_studio/cards-image-cnn/checkpoints/mobilenet_scratch/best_model.pt",
+  "checkpoint_epoch": 75,
+  "checkpoint_best_val_accuracy": 0.856604
+}

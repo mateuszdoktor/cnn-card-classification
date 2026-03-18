@@ -1,0 +1,12 @@
+{
+  "test_loss": 0.157825,
+  "test_accuracy": 0.969811,
+  "test_recall": 0.969811,
+  "test_precision": 0.975112,
+  "test_f1-score": 0.96983,
+  "num_classes": 53,
+  "random_baseline_accuracy": 0.018868,
+  "checkpoint_path": "/teamspace/studios/this_studio/cards-image-cnn/checkpoints/resnet_pretrained/best_model.pt",
+  "checkpoint_epoch": 18,
+  "checkpoint_best_val_accuracy": 0.988679
+}

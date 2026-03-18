@@ -1,0 +1,377 @@
+{
+  "arch_name": "resnet",
+  "num_classes": 53,
+  "per_class_metrics": [
+    {
+      "class_name": "ace of clubs",
+      "support": 5,
+      "precision": 0.625,
+      "recall": 1.0,
+      "f1_score": 0.769231
+    },
+    {
+      "class_name": "ace of diamonds",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "ace of hearts",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "ace of spades",
+      "support": 5,
+      "precision": 0.833333,
+      "recall": 1.0,
+      "f1_score": 0.909091
+    },
+    {
+      "class_name": "eight of clubs",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "eight of diamonds",
+      "support": 5,
+      "precision": 0.714286,
+      "recall": 1.0,
+      "f1_score": 0.833333
+    },
+    {
+      "class_name": "eight of hearts",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "eight of spades",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "five of clubs",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 0.6,
+      "f1_score": 0.75
+    },
+    {
+      "class_name": "five of diamonds",
+      "support": 5,
+      "precision": 0.8,
+      "recall": 0.8,
+      "f1_score": 0.8
+    },
+    {
+      "class_name": "five of hearts",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "five of spades",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "four of clubs",
+      "support": 5,
+      "precision": 0.833333,
+      "recall": 1.0,
+      "f1_score": 0.909091
+    },
+    {
+      "class_name": "four of diamonds",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "four of hearts",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "four of spades",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 0.6,
+      "f1_score": 0.75
+    },
+    {
+      "class_name": "jack of clubs",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "jack of diamonds",
+      "support": 5,
+      "precision": 0.833333,
+      "recall": 1.0,
+      "f1_score": 0.909091
+    },
+    {
+      "class_name": "jack of hearts",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "jack of spades",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1_score": 0.888889
+    },
+    {
+      "class_name": "joker",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "king of clubs",
+      "support": 5,
+      "precision": 0.833333,
+      "recall": 1.0,
+      "f1_score": 0.909091
+    },
+    {
+      "class_name": "king of diamonds",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1_score": 0.888889
+    },
+    {
+      "class_name": "king of hearts",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "king of spades",
+      "support": 5,
+      "precision": 0.8,
+      "recall": 0.8,
+      "f1_score": 0.8
+    },
+    {
+      "class_name": "nine of clubs",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 0.6,
+      "f1_score": 0.75
+    },
+    {
+      "class_name": "nine of diamonds",
+      "support": 5,
+      "precision": 0.8,
+      "recall": 0.8,
+      "f1_score": 0.8
+    },
+    {
+      "class_name": "nine of hearts",
+      "support": 5,
+      "precision": 0.833333,
+      "recall": 1.0,
+      "f1_score": 0.909091
+    },
+    {
+      "class_name": "nine of spades",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1_score": 0.888889
+    },
+    {
+      "class_name": "queen of clubs",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1_score": 0.888889
+    },
+    {
+      "class_name": "queen of diamonds",
+      "support": 5,
+      "precision": 0.714286,
+      "recall": 1.0,
+      "f1_score": 0.833333
+    },
+    {
+      "class_name": "queen of hearts",
+      "support": 5,
+      "precision": 0.8,
+      "recall": 0.8,
+      "f1_score": 0.8
+    },
+    {
+      "class_name": "queen of spades",
+      "support": 5,
+      "precision": 0.714286,
+      "recall": 1.0,
+      "f1_score": 0.833333
+    },
+    {
+      "class_name": "seven of clubs",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "seven of diamonds",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "seven of hearts",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "seven of spades",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "six of clubs",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 0.6,
+      "f1_score": 0.75
+    },
+    {
+      "class_name": "six of diamonds",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1_score": 0.888889
+    },
+    {
+      "class_name": "six of hearts",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1_score": 0.888889
+    },
+    {
+      "class_name": "six of spades",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "ten of clubs",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1_score": 0.888889
+    },
+    {
+      "class_name": "ten of diamonds",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1_score": 0.888889
+    },
+    {
+      "class_name": "ten of hearts",
+      "support": 5,
+      "precision": 0.8,
+      "recall": 0.8,
+      "f1_score": 0.8
+    },
+    {
+      "class_name": "ten of spades",
+      "support": 5,
+      "precision": 0.666667,
+      "recall": 0.8,
+      "f1_score": 0.727273
+    },
+    {
+      "class_name": "three of clubs",
+      "support": 5,
+      "precision": 0.833333,
+      "recall": 1.0,
+      "f1_score": 0.909091
+    },
+    {
+      "class_name": "three of diamonds",
+      "support": 5,
+      "precision": 0.833333,
+      "recall": 1.0,
+      "f1_score": 0.909091
+    },
+    {
+      "class_name": "three of hearts",
+      "support": 5,
+      "precision": 0.8,
+      "recall": 0.8,
+      "f1_score": 0.8
+    },
+    {
+      "class_name": "three of spades",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1_score": 1.0
+    },
+    {
+      "class_name": "two of clubs",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1_score": 0.888889
+    },
+    {
+      "class_name": "two of diamonds",
+      "support": 5,
+      "precision": 0.714286,
+      "recall": 1.0,
+      "f1_score": 0.833333
+    },
+    {
+      "class_name": "two of hearts",
+      "support": 5,
+      "precision": 1.0,
+      "recall": 0.6,
+      "f1_score": 0.75
+    },
+    {
+      "class_name": "two of spades",
+      "support": 5,
+      "precision": 0.8,
+      "recall": 0.8,
+      "f1_score": 0.8
+    }
+  ]
+}

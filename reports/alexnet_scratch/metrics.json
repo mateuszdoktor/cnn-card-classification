@@ -1,0 +1,12 @@
+{
+  "test_loss": 1.566175,
+  "test_accuracy": 0.841509,
+  "test_recall": 0.841509,
+  "test_precision": 0.852666,
+  "test_f1-score": 0.834594,
+  "num_classes": 53,
+  "random_baseline_accuracy": 0.018868,
+  "checkpoint_path": "/teamspace/studios/this_studio/cards-image-cnn/checkpoints/alexnet_scratch/best_model.pt",
+  "checkpoint_epoch": 27,
+  "checkpoint_best_val_accuracy": 0.883019
+}
