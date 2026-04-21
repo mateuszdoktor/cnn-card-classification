@@ -43,7 +43,7 @@ All models were evaluated using the same dataset splits and validation metrics. 
 ---
 
 ## Visualizing Model Behavior
-*A picture is worth a thousand words.* Below is a snapshot of the training dynamics and final evaluation for our best-performing model: **ResNet-18 (Pre-trained)**.
+Below is a snapshot of the training dynamics and final evaluation for our best-performing model: **ResNet-18 (Pre-trained)**.
 
 ### Best Model Performance (ResNet-18 Transfer Learning)
 
@@ -143,10 +143,3 @@ python train.py
 python evaluate.py
 ```
 This will output `metrics.json`, `per_class_metrics.json`, and rendering plots (Confusion Matrix, Loss Curves, PR Curves) directly into the `reports/` folder.
-
----
-
-## Future Work / Improvements
-* **Data Augmentation:** Implement more aggressive data augmentation (e.g., perspective transforms, random occlusions) to make the model robust against poor lighting and weird angles.
-* **Hyperparameter Sweeps:** Integrate *Optuna* or *Ray Tune* for automated hyperparameter optimization.
-* **Deployment:** Export the best MobileNetV2 model to ONNX format and build a lightweight REST API with FastAPI for real-time inference.
